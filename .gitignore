@@ -39,3 +39,15 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# TypeScript incremental build cache
+.tsbuildinfo
+buildcache
+
+# Editor / IDE
+.vscode
+
+# Agent skills
+.claude
+.agents
+skills-lock.json
